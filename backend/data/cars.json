@@ -1,0 +1,104 @@
+
+
+[
+  {
+    "id": 1,
+    "model": "Tata Nexon EV",
+    "price": 1599000,
+    "fuel": "Electric",
+    "mileage": "452 km per charge",
+    "safety": "5-star GNCAP",
+    "priority": "features",
+    "features": ["ADAS", "Panoramic sunroof", "Wireless charger", "Connected car tech"]
+  },
+  {
+    "id": 2,
+    "model": "Mahindra XUV700",
+    "price": 1499000,
+    "fuel": "Petrol/Diesel",
+    "mileage": "16-20 kmpl",
+    "safety": "5-star GNCAP",
+    "priority": "safety",
+    "features": ["Level 2 ADAS", "7 airbags", "360-degree camera", "Dual-pane sunroof"]
+  },
+  {
+    "id": 3,
+    "model": "Tata Safari",
+    "price": 1709000,
+    "fuel": "Petrol/Diesel",
+    "mileage": "14-18 kmpl",
+    "safety": "5-star GNCAP",
+    "priority": "safety",
+    "features": ["Cruise control", "Terrain response", "360-degree camera", "Smart infotainment"]
+  },
+  {
+    "id": 4,
+    "model": "Maruti Suzuki Baleno",
+    "price": 872000,
+    "fuel": "Petrol",
+    "mileage": "22-24 kmpl",
+    "safety": "4-star GNCAP",
+    "priority": "mileage",
+    "features": ["SmartPlay Studio", "ESP", "Hill Hold Assist", "Rear parking camera"]
+  },
+  {
+    "id": 5,
+    "model": "Hyundai Creta",
+    "price": 1359000,
+    "fuel": "Petrol/Diesel",
+    "mileage": "16-21 kmpl",
+    "safety": "5-star GNCAP",
+    "priority": "features",
+    "features": ["Blind spot monitor", "Wireless charging", "Ventilated seats", "Connected car features"]
+  },
+  {
+    "id": 6,
+    "model": "Tata Punch",
+    "price": 809900,
+    "fuel": "Petrol",
+    "mileage": "18-20 kmpl",
+    "safety": "5-star GNCAP",
+    "priority": "safety",
+    "features": ["Hill Descent Control", "7 airbags", "Rain sensing wipers", "Connected car app"]
+  },
+  {
+    "id": 7,
+    "model": "Kia Seltos",
+    "price": 1579000,
+    "fuel": "Petrol/Diesel",
+    "mileage": "14-20 kmpl",
+    "safety": "5-star GNCAP",
+    "priority": "features",
+    "features": ["ARC LED headlamps", "6 airbags", "Smartkey", "Bose sound system"]
+  },
+  {
+    "id": 8,
+    "model": "Maruti Suzuki Vitara Brezza",
+    "price": 1149000,
+    "fuel": "Petrol",
+    "mileage": "18-20 kmpl",
+    "safety": "5-star GNCAP",
+    "priority": "mileage",
+    "features": ["Dual airbags", "LED projector headlamps", "SmartPlay Studio", "Rear AC vents"]
+  },
+  {
+    "id": 9,
+    "model": "Hyundai i20",
+    "price": 1199000,
+    "fuel": "Petrol",
+    "mileage": "18-20 kmpl",
+    "safety": "4-star GNCAP",
+    "priority": "mileage",
+    "features": ["Digital cockpit", "Wireless charging", "ADAS support", "Push-button start"]
+  },
+  {
+    "id": 10,
+    "model": "Tata Altroz",
+    "price": 1049000,
+    "fuel": "Petrol/Diesel",
+    "mileage": "18-22 kmpl",
+    "safety": "5-star GNCAP",
+    "priority": "features",
+    "features": ["4-star GNCAP", "Dual-zone climate control", "6 airbags", "Connected car features"]
+  }
+]
